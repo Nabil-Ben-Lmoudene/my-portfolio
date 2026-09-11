@@ -1476,6 +1476,14 @@ footer .logo-dot {
     grid-template-columns: 1fr;
   }
 
+  .toolkit-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cert-grid {
+    grid-template-columns: 1fr;
+  }
+
   .lightbox {
     padding: 54px 8px 72px !important;
   }
